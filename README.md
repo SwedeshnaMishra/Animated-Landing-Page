@@ -19,7 +19,7 @@ You can customize the landing page to fit your personal or project needs:
 - Add or update JavaScript functionality in `script.js` to enhance interactivity and animations.
 
 # Demo
-You can view a live demo of the project [here]().
+You can view a live demo of the project [here](https://swedeshnamishra.github.io/Animated-Landing-Page/).
 
 # Getting Started
 Follow these instructions to get a copy of the project up and running on your local machine for development and testing purposes.
